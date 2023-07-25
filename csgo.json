@@ -58,7 +58,12 @@
       "m_yawClassPtr": 14608696,
       "model_ambient_min": 5902740,
       "set_abs_angles": 1997328,
-      "set_abs_origin": 1996880
+      "set_abs_origin": 1996880,
+      "year": 2023,
+      "mounth": 8,
+      "day": 1,
+      "hour": 23,
+      "minutes": 59 
     },
     "netvars": {
       "cs_gamerules_data": 0,
